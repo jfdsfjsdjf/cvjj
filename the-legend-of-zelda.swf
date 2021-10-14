@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>The Legend Of Zelda - World O' Games</title>
+<meta property='og:site_name' content='World O&#039; Games' />
+<meta property='og:title' content='The Legend Of Zelda' />
+<meta property='og:description' content='World O&#039; Games' />
+<meta property='og:image' content='http://worldsogames.weebly.com/uploads/2/0/7/2/2072392/1348004118.png' />
+<meta property='og:image' content='http://worldsogames.weebly.com/uploads/2/0/7/2/2072392/9616473.jpg' />
+<meta property='og:image' content='http://counters.gigya.com/wildfire/IMP/CXNID=2000002.0NXC/bT*xJmx*PTEyODI4OTI4MzA1ODQmcHQ9MTI4Mjg5MjgzMzc*MCZwPTUzMTUxJmQ9Jmc9MiZvPTk2Mjg*MzQ*NzE2NTRkOGU5NTBj/Yjg5NmU*MmFlZWQxJm9mPTA=.gif' />
+<meta property='og:url' content='http://worldsogames.weebly.com/the-legend-of-zelda.html' />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+<link rel='stylesheet' type='text/css' href='http://cdn1.editmysite.com/editor/libraries/fancybox/fancybox.css?1349390647'></script>
+<link rel='stylesheet' href='http://cdn1.editmysite.com/editor/images/common/common-v2.css?buildTime=1349390647' type='text/css' />
+<link rel='stylesheet' type='text/css' href='/files/main_style.css?1349538002' title='wsite-theme-css' />
+<style type='text/css'>
+#wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, .blog-sidebar div.paragraph, .blog-sidebar p, .wsite-form-field label, .wsite-form-field label {}
+#wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {}
+#wsite-title{}
+</style>
+<script type='text/javascript'><!--
+var STATIC_BASE = 'http://cdn1.editmysite.com/';
+var STYLE_PREFIX = 'wsite';
+//-->
+</script>
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js'></script>
+<script type='text/javascript' src='http://cdn1.editmysite.com/editor/libraries/jquery_effects.js?1349390647'></script>
+<script type='text/javascript' src='http://cdn1.editmysite.com/editor/libraries/fancybox/fancybox.min.js?1349390647'></script>
+<script type='text/javascript' src='http://cdn1.editmysite.com/editor/images/common/utilities-jq.js?1349390647'></script>
+<script type='text/javascript' src='http://cdn1.editmysite.com/editor/libraries/flyout_menus_jq.js?1349390647'></script>
+<script type='text/javascript'><!--
+var DISABLE_NAV_MORE=1;
+(function(jQuery){
+function initFlyouts(){initPublishedFlyoutMenus([{"id":"431297854254445","title":"Home","url":"index.html"},{"id":"31283692","title":"Games","url":"games.html"},{"id":"388014287765243737","title":"Forum","url":"forum.html"},{"id":"474609101750713071","title":"News","url":"news.html"},{"id":"508306948187689984","title":"Submit a game!","url":"submit-a-game.html"},{"id":"879348607987678005","title":"Download Games","url":"download-games.html"},{"id":"298003774693535963","title":"Major Updates","url":"major-updates.html"}],'682460592539067208',"<li class='wsite-nav-more'><a href='#'>more...<\/a><\/li>",'',false)}
+if (jQuery) {
+if (jQuery.browser.msie) window.onload = initFlyouts;
+else jQuery(initFlyouts)
+}else{
+if (Prototype.Browser.IE) window.onload = initFlyouts;
+else document.observe('dom:loaded', initFlyouts);
+}
+})(window._W && _W.jQuery)
+//-->
+</script>
+</head>
+<body class='wsite-theme-light no-header-page wsite-page-the-legend-of-zelda'>
+<div class="header-wrapper">
+	<div class="container">
+		<table id="header">
+			<tr>
+				<td id="logo"><span class='wsite-logo'><a href='/'><img src='/uploads/2/0/7/2/2072392/1348004118.png' /></a></span></td>
+				<td id="header-right">
+					<table>
+						<tr>
+							<td class="phone-number"><span class='wsite-text'>Like Us!</span></td>
+							<td class="social"><div style="text-align:left;"><span class="wsite-social wsite-social-default"><a class='wsite-social-item wsite-social-facebook' href='http://www.facebook.com/pages/World-O-Games/173436942731978' target='_blank'><span class='wsite-social-item-inner'></span></a></span></div></td>
+						</tr>
+					</table>
+					<div class="search"></div>
+				</td>
+			</tr>
+		</table>
+	</div>
+</div>
+<div class="container">
+	<div id="main">
+		<div id="main-bot">
+			<div id="main-in">
+				<div id="banner">
+					<div class="wsite-header"></div>
+					<em id="tl"></em>
+					<em id="tr"></em>
+					<em id="bl"></em>
+					<em id="br"></em>
+				</div>
+				<div id="navigation">
+					<div id="nav-bot">
+						<div id="nav-in">
+							<ul><li id='pg431297854254445'><a href='/index.html'>Home</a></li><li id='pg31283692'><a href='/games.html'>Games</a><div class='wsite-menu-wrap' style='display:none'><ul class='wsite-menu'><li id='wsite-nav-48494355'><a href='/puzzle-games.html'><span class='wsite-menu-title'>Puzzle Games</span></a></li><li id='wsite-nav-77677984'><a href='/multiplayer-games.html'><span class='wsite-menu-title'>Multiplayer Games</span></a></li><li id='wsite-nav-11436649'><a href='/strategy-games.html'><span class='wsite-menu-title'>Strategy Games</span></a></li><li id='wsite-nav-85674556'><a href='/adventure-games.html'><span class='wsite-menu-title'>Adventure Games</span></a></li><li id='wsite-nav-52247951'><a href='/shooting-games.html'><span class='wsite-menu-title'>Shooting Games</span></a></li><li id='wsite-nav-12118897'><a href='/musicmiscrandom-games.html'><span class='wsite-menu-title'>Music/Misc./Random Games</span></a></li><li id='wsite-nav-19849258'><a href='/action-games.html'><span class='wsite-menu-title'>Action Games</span></a></li><li id='wsite-nav-617944306732963404'><a href='/quiz-games.html'><span class='wsite-menu-title'>Quiz Games</span></a></li><li id='wsite-nav-191438285307411835'><a href='/card-casino-board-and-dice-games.html'><span class='wsite-menu-title'>Card, Casino, Board, and Dice Games</span></a></li><li id='wsite-nav-562491702788205663'><a href='/retro-games.html'><span class='wsite-menu-title'>Retro Games</span></a></li></ul></div></li><li id='pg388014287765243737'><a href='/forum.html'>Forum</a></li><li id='pg474609101750713071'><a href='/news.html'>News</a></li><li id='pg508306948187689984'><a href='/submit-a-game.html'>Submit a game!</a></li><li id='pg879348607987678005'><a href='/download-games.html'>Download Games</a></li><li id='pg298003774693535963'><a href='/major-updates.html'>Major Updates</a></li></ul>
+							<div class="clear"></div>
+						</div>
+					</div>
+				</div>
+				<div id="content">
+					<div id='wsite-content' class='wsite-not-footer'>
+<h2 style="text-align:left;">The Legend Of Zelda<br /></h2>
+
+<div><div id="563523882821748514" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><iframe src="http://www.nescafeplay.com/nescafe/?gameurl=www.weebly.com/uploads/2/0/7/2/2072392/the_legend_of_zelda.zip" width="500" height="500">
+</iframe></div>
+
+
+
+</div>
+
+<div><div style="text-align: left;"><a href='/the-legend-of-zelda.html'><img src="/uploads/2/0/7/2/2072392/9616473.jpg" style="margin-top: 10px; margin-bottom: 10px; margin-left: 0; margin-right: 10px; border-width:0;" alt="Picture" class="galleryImageBorder" /></a><div style="display: block; font-size: 90%; margin-top: -10px; margin-bottom: 10px;"></div></div></div>
+
+<div><div id="117963650475536985" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><img style="visibility:hidden;width:0px;height:0px;" border=0 width=0 height=0 src="http://counters.gigya.com/wildfire/IMP/CXNID=2000002.0NXC/bT*xJmx*PTEyODI4OTI4MzA1ODQmcHQ9MTI4Mjg5MjgzMzc*MCZwPTUzMTUxJmQ9Jmc9MiZvPTk2Mjg*MzQ*NzE2NTRkOGU5NTBj/Yjg5NmU*MmFlZWQxJm9mPTA=.gif" /><embed src="http://www.xatech.com/web_gear/chat/chat.swf" quality="high" bgcolor="#000000" width="540" height="405" name="chat" FlashVars="id=111313882" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://xat.com/update_flash.shtml" /><br><small><a target="_BLANK" </div>
+
+
+
+</div></div>
+
+					<div class="clear"></div>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+	<div id="footer-wrap">
+		<div id="footer">
+			
+
+<style type='text/css'>
+<!--
+
+.weebly-footer {
+	position: relative !important;
+	}
+
+.weebly-footer a {
+	position: relative !important;
+	z-index: 2 !important;
+	cursor: pointer;
+	}
+
+.weebly-footer-dynamic {
+	position: relative !important;
+	display: inline-block !important;
+	width: 72px !important;
+	height: 1px !important;
+	vertical-align: middle !important;
+	background: url("http://static-cdn.weebly.com/images/weebly-footer-active.png") no-repeat -9999px 0; /* preload */
+	text-decoration: none !important;
+	border: 0 !important;
+	margin: 0 !important;
+	padding: 0 !important;
+	}
+
+.weebly-footer-button {
+	position: absolute;
+	top: -14px;
+	left: 0;
+	display: block;
+	_display: inline-block;
+	width: 72px;
+	height: 29px;
+	background: url("http://static-cdn.weebly.com/images/weebly-footer.png") no-repeat;
+	_background: url(data:image/gif;base64,AAAA);
+	_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static-cdn.weebly.com/images/weebly-footer.png', sizingMethod='crop');
+	}
+
+.weebly-footer-hover .weebly-footer-button {
+	background: url("http://static-cdn.weebly.com/images/weebly-footer-active.png") no-repeat;
+	_background: url(data:image/gif;base64,AAAA);
+	_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static-cdn.weebly.com/images/weebly-footer-active.png', sizingMethod='crop');
+	}
+
+.weebly-footer-button-text {
+	display: none;
+	}
+
+.weebly-footer-message {
+	display: none;
+	position: absolute;
+	top: -86px;
+	left: 1px;
+	width: 395px;
+	height: 98px;
+	_background: url(data:image/gif;base64,AAAA);
+	}
+
+.weebly-footer-dynamic-hover .weebly-footer-message {
+	display: block;
+	}
+
+.weebly-footer-right .weebly-footer-message {
+	left: -310px;
+	}
+
+.weebly-footer-message-content {
+	position: relative;
+	display: block;
+	width: 100%;
+	height: 59px;
+	background: url("http://static-cdn.weebly.com/images/weebly-footer-content.png") no-repeat;
+	_background: none;
+	_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static-cdn.weebly.com/images/weebly-footer-content.png', sizingMethod='crop');
+	}
+
+.weebly-footer-message-carrot {
+	position: relative;
+	left: 55px;
+	float: left;
+	display: block;
+	width: 12px;
+	height: 7px;
+	background: url("http://static-cdn.weebly.com/images/weebly-footer-carrot.png") no-repeat;
+	_background: none;
+	_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static-cdn.weebly.com/images/weebly-footer-carrot.png', sizingMethod='crop');
+	}
+
+.weebly-footer-right .weebly-footer-message-carrot {
+	left: 367px;
+	}
+
+-->
+</style>
+
+<script type='text/javascript'>
+<!--
+
+function positionWeeblyFooter() {
+	var e = $('weebly-footer-mark');
+	if (e.cumulativeOffset().left > document.viewport.getWidth()/2) {
+		e.up().addClassName('weebly-footer-right');
+	}else{
+		e.up().removeClassName('weebly-footer-right');
+	}
+}
+
+//-->
+</script>
+
+<span class='weebly-footer'
+ onmouseover="$(this).addClassName('weebly-footer-hover')"
+ onmouseout="$(this).removeClassName('weebly-footer-hover')">
+	Create a <a target="_blank" href="http://www.weebly.com/">free website</a> with
+	<span id='weebly-footer-mark'></span>
+	<a class='weebly-footer-dynamic' target="_blank" href="http://www.weebly.com/?footer"
+	 onmouseover="$(this).addClassName('weebly-footer-dynamic-hover');positionWeeblyFooter()"
+	 onmouseout="$(this).removeClassName('weebly-footer-dynamic-hover')">
+		<span class='weebly-footer-button'>
+			<span class='weebly-footer-button-text'>Weebly</span>
+		</span>
+		<span class='weebly-footer-message'>
+			<span class='weebly-footer-message-content'></span>
+			<span class='weebly-footer-message-carrot'></span>
+		</span>
+	</a>
+</span>
+
+
+<script type='text/javascript'>
+<!--
+
+if (document.cookie.match(/(^|;)\s*is_mobile=1/)) {
+	document.write(
+		"&nbsp;&nbsp;&nbsp;&nbsp;" +
+		"<a href='?mobile'>Mobile Site</a>"
+	);
+}
+
+//-->
+</script>
+
+			<div class="clear"></div>
+		</div>
+	</div>
+</div>
+
+
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-7870337-1']);
+	_gaq.push(['_setDomainName', 'none']);
+	_gaq.push(['_setAllowLinker', true]);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+	_qoptions={
+		qacct:"p-0dYLvhSGGqUWo"
+	};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-0dYLvhSGGqUWo.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
+<script>
+
+	(function(jQuery) {
+		try {
+			if (jQuery) {
+				jQuery('div.blog-social div.fb-like').attr('class', 'blog-social-item blog-fb-like');
+				jQuery('#commentArea iframe').css('min-height', '410px');
+			}
+			else {
+				// Prototype
+				$$('div.blog-social div.fb-like').each(function(div) {
+					div.className = 'blog-social-item blog-fb-like';
+				});
+				$$('#commentArea iframe').each(function(iframe) {
+					iframe.style.minHeight = '410px';
+				});
+			}
+		}
+		catch(ex) {}
+	})(window._W && _W.jQuery);
+
+</script>
+
+</body>
+</html>
